@@ -99,3 +99,4 @@ public class OddEvenGame
    
     } // End main
  } // End class OddEvenGame
+// Please see if you can combine the  if(die%2==0) statements.
